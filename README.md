@@ -1,27 +1,19 @@
-### Hi there 👋
-Software development:\
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py)](https://skillicons.dev)\
-Databases:\
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)\
-Web Development:\
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react)](https://skillicons.dev)\
-Others:\
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,bash,git)](https://skillicons.dev)
-<!--Mobile applications:\
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin)](https://skillicons.dev)\-->
+# Hi, I'm Szymon 👋
+### And I enjoy building software that people actually use. 📚 Fascinated about tech and how everything around us works. 👨‍💻
 
+## Founder of [Pro-Faktura](https://pro-faktura.pl) 🚀
+An advanced and extremely simple accounting software for managing invoices, income/expenses and generating tax declarations integrated with KSeF API and e-dokumenty API. Enabling users to send invoice in less than a minute while allowing them to focus on their business rather than tedious accounting stuff.
 
-<!--
-**Szymoek02/Szymoek02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My other best projects
+📖 [**maturazadania.pl**](https://maturazadania.pl) - is a website with aggregated task from polish matura exam. Allowing students to practice what they need and keep track of their progress.
 
-Here are some ideas to get you started:
+👾 [**ksef-client**](https://packagist.org/packages/szymon-s292/ksef-client) - a php library for interacting with Polish KSeF 2.0 API and XAdES authorization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Solved 400+ tasks on [Leetcode](https://leetcode.com/u/szymon-s292)
+<a href="https://leetcode.com/u/szymon-s292"><img src="https://img.shields.io/badge/Leetcode-szymon--s292-blue?style=flat&logo=leetcode" alt="Leetcode"/></a>
+
+### Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,php,tailwind,androidstudio,mongodb,mysql,nginx,cpp,wasm,python,linux,arch)](https://skillicons.dev)
+
+### Let’s get in touch
+<a href="mailto:stajszczykszymon@gmail.com"><img src="https://img.shields.io/badge/Email-stajszczykszymon@gmail.com-blue?logo=gmail&style=for-the-badge" alt="stajszczykszymon@gmail.com"/></a>
